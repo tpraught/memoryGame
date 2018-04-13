@@ -1,0 +1,21 @@
+.jumbotron {
+    background: url('bkg_header.jpg') no-repeat top left;
+}
+h1 {
+    font-family: 'Vidaloka', cursive;
+    font-size: 60px;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+h2 span {
+    font-weight: bold;
+}
